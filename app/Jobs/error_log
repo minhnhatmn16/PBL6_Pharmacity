@@ -1,0 +1,9 @@
+[27-Nov-2024 04:04:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendVerifyEmail.php on line 15
+[27-Nov-2024 11:05:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendForgotPassword.php on line 14
+[27-Nov-2024 12:07:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendMailNotify.php on line 14
+[29-Nov-2024 03:51:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendVerifyEmail.php on line 15
+[29-Nov-2024 10:51:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendForgotPassword.php on line 14
+[29-Nov-2024 11:55:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendMailNotify.php on line 14
+[01-Dec-2024 04:00:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendVerifyEmail.php on line 15
+[01-Dec-2024 11:23:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendForgotPassword.php on line 14
+[01-Dec-2024 11:54:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/huutrico/public_html/PBL6-BE/app/Jobs/SendMailNotify.php on line 14

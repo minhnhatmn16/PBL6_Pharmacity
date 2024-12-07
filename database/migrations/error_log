@@ -1,0 +1,208 @@
+[25-Nov-2024 21:19:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php on line 7
+[25-Nov-2024 22:17:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000001_create_provinces_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000001_create_provinces_table.php on line 7
+[26-Nov-2024 07:02:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_06_14_000001_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_06_14_000001_create_media_table.php on line 7
+[26-Nov-2024 23:01:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172304_create_suppliers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172304_create_suppliers_table.php on line 7
+[26-Nov-2024 23:02:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_171725_create_admins_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_171725_create_admins_table.php on line 7
+[26-Nov-2024 23:02:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000002_create_districts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000002_create_districts_table.php on line 7
+[26-Nov-2024 23:02:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164259_add_some_column_from_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164259_add_some_column_from_payments_table.php on line 7
+[26-Nov-2024 23:11:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[27-Nov-2024 00:31:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[27-Nov-2024 00:42:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000003_create_wards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000003_create_wards_table.php on line 7
+[27-Nov-2024 00:42:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172225_create_brands_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172225_create_brands_table.php on line 7
+[27-Nov-2024 00:43:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[27-Nov-2024 00:44:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_05_131134_category_disease.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_05_131134_category_disease.php on line 7
+[27-Nov-2024 00:45:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[27-Nov-2024 00:48:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_150914_remove_some_field_from_orders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_150914_remove_some_field_from_orders_table.php on line 7
+[27-Nov-2024 00:49:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_07_121442_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_07_121442_create_jobs_table.php on line 7
+[27-Nov-2024 00:57:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172334_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172334_create_categories_table.php on line 7
+[27-Nov-2024 00:58:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164141_create_delivery_methods_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164141_create_delivery_methods_table.php on line 7
+[27-Nov-2024 00:58:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164115_create_payment_methods_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164115_create_payment_methods_table.php on line 7
+[27-Nov-2024 21:08:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php on line 7
+[27-Nov-2024 22:05:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000001_create_provinces_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000001_create_provinces_table.php on line 7
+[28-Nov-2024 13:39:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_06_14_000001_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_06_14_000001_create_media_table.php on line 7
+[28-Nov-2024 22:55:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[28-Nov-2024 23:11:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000002_create_districts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000002_create_districts_table.php on line 7
+[28-Nov-2024 23:12:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164259_add_some_column_from_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164259_add_some_column_from_payments_table.php on line 7
+[28-Nov-2024 23:13:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172304_create_suppliers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172304_create_suppliers_table.php on line 7
+[28-Nov-2024 23:14:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_171725_create_admins_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_171725_create_admins_table.php on line 7
+[29-Nov-2024 00:46:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[29-Nov-2024 00:51:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_150914_remove_some_field_from_orders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_150914_remove_some_field_from_orders_table.php on line 7
+[29-Nov-2024 00:51:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_07_121442_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_07_121442_create_jobs_table.php on line 7
+[29-Nov-2024 00:52:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[29-Nov-2024 00:55:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172334_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172334_create_categories_table.php on line 7
+[29-Nov-2024 00:55:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[29-Nov-2024 00:56:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_05_131134_category_disease.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_09_05_131134_category_disease.php on line 7
+[29-Nov-2024 01:05:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172225_create_brands_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172225_create_brands_table.php on line 7
+[29-Nov-2024 01:06:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000003_create_wards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000003_create_wards_table.php on line 7
+[29-Nov-2024 01:12:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164115_create_payment_methods_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164115_create_payment_methods_table.php on line 7
+[29-Nov-2024 01:26:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164141_create_delivery_methods_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_164141_create_delivery_methods_table.php on line 7
+[29-Nov-2024 21:32:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php on line 7
+[29-Nov-2024 22:01:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000001_create_provinces_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000001_create_provinces_table.php on line 7
+[30-Nov-2024 22:54:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[01-Dec-2024 00:57:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172334_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172334_create_categories_table.php on line 7
+[06-Dec-2024 15:18:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_06_14_000001_create_media_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_06_14_000001_create_media_table.php on line 7
+[06-Dec-2024 15:18:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[06-Dec-2024 15:19:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172225_create_brands_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172225_create_brands_table.php on line 7
+[06-Dec-2024 15:20:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000002_create_districts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2020_01_01_000002_create_districts_table.php on line 7
+[06-Dec-2024 15:21:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172819_create_order_details_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172819_create_order_details_table.php on line 7
+[06-Dec-2024 15:22:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_14_163818_add_column_province_district_ward_from_receiver_address_table.php on line 7
+[06-Dec-2024 15:24:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[06-Dec-2024 15:25:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_27_175846_create_reviews_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_11_27_175846_create_reviews_table.php on line 7
+[06-Dec-2024 15:26:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[06-Dec-2024 15:27:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172653_create_imports_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/database/migrations/2024_08_31_172653_create_imports_table.php on line 7

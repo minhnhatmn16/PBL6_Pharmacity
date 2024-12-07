@@ -1,0 +1,200 @@
+[26-Nov-2024 23:11:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Brand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Brand.php on line 8
+[27-Nov-2024 00:35:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/PasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/PasswordReset.php on line 8
+[27-Nov-2024 00:35:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Cart.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Cart.php on line 8
+[27-Nov-2024 00:35:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Province.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Province.php on line 27
+[27-Nov-2024 00:35:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/CategoryDisease.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/CategoryDisease.php on line 8
+[27-Nov-2024 00:37:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/OrderDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/OrderDetail.php on line 8
+[27-Nov-2024 00:37:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Import.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Import.php on line 8
+[27-Nov-2024 00:37:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Order.php on line 8
+[27-Nov-2024 00:38:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/DeliveryMethod.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/DeliveryMethod.php on line 8
+[27-Nov-2024 00:38:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/ReceiverAddress.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/ReceiverAddress.php on line 8
+[27-Nov-2024 00:38:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Ward.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Ward.php on line 28
+[27-Nov-2024 00:38:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/District.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/District.php on line 30
+[27-Nov-2024 00:38:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Category.php on line 8
+[27-Nov-2024 00:38:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Supplier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Supplier.php on line 8
+[27-Nov-2024 00:38:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Delivery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Delivery.php on line 8
+[27-Nov-2024 00:39:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/ImportDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/ImportDetail.php on line 8
+[27-Nov-2024 00:39:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/huutrico/public_html/PBL6-BE/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/User.php on line 12
+[27-Nov-2024 02:00:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Admin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Admin.php on line 11
+[27-Nov-2024 06:45:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Disease.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Disease.php on line 8
+[27-Nov-2024 06:55:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/PaymentMethod.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/PaymentMethod.php on line 8
+[27-Nov-2024 12:42:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Product.php on line 8
+[27-Nov-2024 13:11:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Payment.php on line 8
+[28-Nov-2024 23:09:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Brand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Brand.php on line 8
+[29-Nov-2024 00:25:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/PasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/PasswordReset.php on line 8
+[29-Nov-2024 00:26:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Cart.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Cart.php on line 8
+[29-Nov-2024 00:38:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Delivery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Delivery.php on line 8
+[29-Nov-2024 00:39:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Order.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Order.php on line 8
+[29-Nov-2024 00:40:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/huutrico/public_html/PBL6-BE/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/User.php on line 12
+[29-Nov-2024 00:41:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/OrderDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/OrderDetail.php on line 8
+[29-Nov-2024 00:41:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/District.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/District.php on line 30
+[29-Nov-2024 00:43:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/ImportDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/ImportDetail.php on line 8
+[29-Nov-2024 01:02:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/ReceiverAddress.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/ReceiverAddress.php on line 8
+[29-Nov-2024 01:02:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Ward.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Ward.php on line 28
+[29-Nov-2024 01:03:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Import.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Import.php on line 8
+[29-Nov-2024 01:10:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Category.php on line 8
+[29-Nov-2024 01:11:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/DeliveryMethod.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/DeliveryMethod.php on line 8
+[29-Nov-2024 01:24:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Province.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Province.php on line 27
+[29-Nov-2024 01:25:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/CategoryDisease.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/CategoryDisease.php on line 8
+[29-Nov-2024 01:26:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Supplier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Supplier.php on line 8
+[29-Nov-2024 02:19:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Admin.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Admin.php on line 11
+[29-Nov-2024 07:28:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Disease.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Disease.php on line 8
+[29-Nov-2024 10:11:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/PaymentMethod.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/PaymentMethod.php on line 8
+[29-Nov-2024 12:36:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Product.php on line 8
+[29-Nov-2024 12:56:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Payment.php on line 8
+[30-Nov-2024 23:01:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Brand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Brand.php on line 8
+[01-Dec-2024 00:36:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/PasswordReset.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/PasswordReset.php on line 8
+[01-Dec-2024 00:39:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Delivery.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Delivery.php on line 8
+[01-Dec-2024 00:52:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Cart.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Cart.php on line 8
+[01-Dec-2024 12:30:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Product.php on line 8
+[01-Dec-2024 13:19:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/huutrico/public_html/PBL6-BE/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Models/Payment.php on line 8

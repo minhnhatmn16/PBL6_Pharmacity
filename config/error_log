@@ -1,0 +1,276 @@
+[25-Nov-2024 07:31:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/huutrico/public_html/PBL6-BE/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/view.php on line 17
+[25-Nov-2024 08:28:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/broadcasting.php on line 18
+[25-Nov-2024 08:34:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/hashing.php on line 32
+[25-Nov-2024 08:40:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/filesystems.php on line 16
+[25-Nov-2024 10:47:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/queue.php on line 16
+[25-Nov-2024 10:48:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/mail.php on line 16
+[25-Nov-2024 11:06:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/mail.php on line 16
+[25-Nov-2024 11:08:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/database.php on line 18
+[25-Nov-2024 11:17:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/queue.php on line 16
+[26-Nov-2024 22:19:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/sanctum.php on line 16
+[26-Nov-2024 22:19:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/aws.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/aws.php on line 20
+[26-Nov-2024 22:20:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/services.php on line 18
+[26-Nov-2024 22:21:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/jwt.php on line 28
+[26-Nov-2024 23:02:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/app.php on line 18
+[27-Nov-2024 03:16:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/session.php on line 21
+[27-Nov-2024 03:42:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/logging.php on line 20
+[27-Nov-2024 07:33:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php on line 22
+[27-Nov-2024 08:44:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cache.php on line 18
+[27-Nov-2024 08:44:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/hashing.php on line 32
+[27-Nov-2024 09:24:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/huutrico/public_html/PBL6-BE/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/view.php on line 17
+[27-Nov-2024 09:26:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/filesystems.php on line 16
+[27-Nov-2024 11:04:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/database.php on line 18
+[27-Nov-2024 11:05:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/broadcasting.php on line 18
+[27-Nov-2024 11:05:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/mail.php on line 16
+[27-Nov-2024 11:21:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/queue.php on line 16
+[28-Nov-2024 22:01:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/sanctum.php on line 16
+[28-Nov-2024 22:03:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/services.php on line 18
+[28-Nov-2024 22:04:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/jwt.php on line 28
+[28-Nov-2024 22:06:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/aws.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/aws.php on line 20
+[29-Nov-2024 01:08:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/app.php on line 18
+[29-Nov-2024 02:56:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/session.php on line 21
+[29-Nov-2024 03:21:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/logging.php on line 20
+[29-Nov-2024 07:20:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php on line 22
+[29-Nov-2024 08:35:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cache.php on line 18
+[29-Nov-2024 10:54:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/database.php on line 18
+[30-Nov-2024 21:58:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/sanctum.php on line 16
+[30-Nov-2024 21:59:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/aws.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/aws.php on line 20
+[30-Nov-2024 21:59:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/services.php on line 18
+[30-Nov-2024 22:01:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/jwt.php on line 28
+[01-Dec-2024 03:00:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/session.php on line 21
+[01-Dec-2024 03:21:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/logging.php on line 20
+[01-Dec-2024 07:25:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php on line 22
+[01-Dec-2024 08:34:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cache.php on line 18
+[05-Dec-2024 12:46:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/mail.php on line 16
+[05-Dec-2024 15:37:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/broadcasting.php on line 18
+[05-Dec-2024 16:00:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/huutrico/public_html/PBL6-BE/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/view.php on line 17
+[05-Dec-2024 16:54:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/filesystems.php on line 16
+[05-Dec-2024 19:46:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/hashing.php on line 32
+[05-Dec-2024 20:19:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/queue.php on line 16
+[05-Dec-2024 20:22:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php on line 22
+[05-Dec-2024 20:45:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/jwt.php on line 28
+[05-Dec-2024 20:51:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/sanctum.php on line 16
+[05-Dec-2024 21:22:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cache.php on line 18
+[05-Dec-2024 22:32:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/session.php on line 21
+[06-Dec-2024 01:39:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/database.php on line 18
+[06-Dec-2024 02:21:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/aws.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/aws.php on line 20
+[06-Dec-2024 02:48:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/logging.php on line 20
+[06-Dec-2024 02:54:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/services.php on line 18
+[06-Dec-2024 03:47:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/app.php on line 18
+[06-Dec-2024 14:59:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/database.php on line 18
+[06-Dec-2024 14:59:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cloudinary.php on line 22
+[06-Dec-2024 14:59:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/hashing.php on line 32
+[06-Dec-2024 14:59:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/jwt.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/jwt.php on line 28
+[06-Dec-2024 15:00:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/aws.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/aws.php on line 20
+[06-Dec-2024 15:02:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/sanctum.php on line 16
+[06-Dec-2024 15:03:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/cache.php on line 18
+[06-Dec-2024 15:05:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/huutrico/public_html/PBL6-BE/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/view.php on line 17
+[06-Dec-2024 15:06:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/filesystems.php on line 16
+[06-Dec-2024 15:08:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/huutrico/public_html/PBL6-BE/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/config/app.php on line 18

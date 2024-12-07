@@ -1,0 +1,6 @@
+﻿category_name,category_thumbnail,category_parent_id,category_type,category_description,category_is_delete
+Bệnh phổ biến,,2,disease_common,,0
+Bệnh theo đối tượng,,2,disease_by_target_group,,0
+Bộ phận cơ thể,,2,disease_body_part,,0
+Nhóm bệnh theo mùa,,2,disease_seasonal,,0
+Nhóm bệnh chuyên khoa,,2,disease_specialty,,0

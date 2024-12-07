@@ -1,0 +1,12 @@
+[27-Nov-2024 20:55:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/Unit/ExampleTest.php on line 7
+[29-Nov-2024 20:53:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/Unit/ExampleTest.php on line 7
+[01-Dec-2024 20:41:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/Unit/ExampleTest.php on line 7

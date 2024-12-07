@@ -1,0 +1,8 @@
+[27-Nov-2024 00:31:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/huutrico/public_html/PBL6-BE/app/Rules/ProductImage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Rules/ProductImage.php on line 8
+[29-Nov-2024 00:58:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Rule" not found in /home/huutrico/public_html/PBL6-BE/app/Rules/ProductImage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Rules/ProductImage.php on line 8

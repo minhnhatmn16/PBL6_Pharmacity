@@ -1,0 +1,16 @@
+[27-Nov-2024 03:40:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php on line 8
+[27-Nov-2024 03:43:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php on line 8
+[29-Nov-2024 03:23:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php on line 8
+[01-Dec-2024 03:29:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Exceptions/Handler.php on line 8

@@ -1,0 +1,8 @@
+[28-Nov-2024 09:50:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/huutrico/public_html/PBL6-BE/app/Http/Controllers/CartDetailController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Http/Controllers/CartDetailController.php on line 15
+[28-Nov-2024 09:50:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/huutrico/public_html/PBL6-BE/app/Http/Controllers/OrderController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Http/Controllers/OrderController.php on line 10

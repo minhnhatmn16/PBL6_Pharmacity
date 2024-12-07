@@ -1,0 +1,76 @@
+[25-Nov-2024 07:58:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/web.php on line 16
+[25-Nov-2024 18:52:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/huutrico/public_html/PBL6-BE/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/channels.php on line 16
+[26-Nov-2024 18:41:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/huutrico/public_html/PBL6-BE/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/console.php on line 17
+[26-Nov-2024 18:41:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/api.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/api.php on line 36
+[27-Nov-2024 16:49:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/web.php on line 16
+[27-Nov-2024 20:53:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/huutrico/public_html/PBL6-BE/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/channels.php on line 16
+[28-Nov-2024 09:11:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/web.php on line 16
+[28-Nov-2024 09:11:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/web.php on line 16
+[28-Nov-2024 09:11:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/huutrico/public_html/PBL6-BE/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/channels.php on line 16
+[28-Nov-2024 18:24:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/huutrico/public_html/PBL6-BE/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/console.php on line 17
+[28-Nov-2024 18:35:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/api.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/api.php on line 36
+[30-Nov-2024 18:36:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/api.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/api.php on line 36
+[30-Nov-2024 18:37:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/huutrico/public_html/PBL6-BE/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/console.php on line 17
+[30-Nov-2024 19:29:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/web.php on line 16
+[30-Nov-2024 21:51:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/huutrico/public_html/PBL6-BE/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/channels.php on line 16
+[05-Dec-2024 14:31:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/web.php on line 16
+[05-Dec-2024 22:51:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/huutrico/public_html/PBL6-BE/routes/api.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/api.php on line 36
+[06-Dec-2024 02:36:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/huutrico/public_html/PBL6-BE/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/console.php on line 17
+[06-Dec-2024 04:03:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/huutrico/public_html/PBL6-BE/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/routes/channels.php on line 16

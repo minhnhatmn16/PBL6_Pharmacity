@@ -1,0 +1,16 @@
+[27-Nov-2024 08:43:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php on line 14
+[29-Nov-2024 08:35:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php on line 14
+[01-Dec-2024 08:33:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php on line 14
+[05-Dec-2024 16:45:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/bootstrap/app.php on line 14

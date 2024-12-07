@@ -1,0 +1,368 @@
+[26-Nov-2024 23:32:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailInterface.php on line 5
+[26-Nov-2024 23:32:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailRepository.php on line 6
+[26-Nov-2024 23:32:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseInterface.php on line 8
+[26-Nov-2024 23:36:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserInterface.php on line 8
+[26-Nov-2024 23:36:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartInterface.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartInterface.php on line 6
+[26-Nov-2024 23:36:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressInterface.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressInterface.php on line 6
+[26-Nov-2024 23:36:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartRepository.php on line 7
+[26-Nov-2024 23:37:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandRepository.php on line 7
+[26-Nov-2024 23:37:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BaseRepository.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BaseRepository.php on line 9
+[26-Nov-2024 23:37:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php on line 4
+[26-Nov-2024 23:38:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseRepository.php on line 7
+[26-Nov-2024 23:38:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierRepository.php on line 10
+[26-Nov-2024 23:38:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierInterface.php on line 8
+[26-Nov-2024 23:39:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryRepository.php on line 7
+[27-Nov-2024 00:01:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminRepository.php on line 4
+[27-Nov-2024 00:01:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentRepository.php on line 7
+[27-Nov-2024 00:01:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodInterface.php on line 5
+[27-Nov-2024 00:01:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportInterface.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportInterface.php on line 3
+[27-Nov-2024 00:25:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductInterface.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductInterface.php on line 4
+[27-Nov-2024 00:31:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductRepository.php on line 6
+[27-Nov-2024 00:31:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryInterface.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryInterface.php on line 3
+[27-Nov-2024 00:31:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderRepository.php on line 6
+[27-Nov-2024 00:31:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderInterface.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderInterface.php on line 4
+[27-Nov-2024 00:31:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminInterface.php on line 8
+[27-Nov-2024 00:32:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryInterface.php on line 5
+[27-Nov-2024 00:32:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentInterface.php on line 5
+[27-Nov-2024 00:32:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportRepository.php on line 7
+[27-Nov-2024 01:25:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandInterface.php on line 8
+[27-Nov-2024 01:47:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressRepository.php on line 6
+[27-Nov-2024 03:04:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodRepository.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodRepository.php on line 9
+[27-Nov-2024 06:29:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php on line 4
+[27-Nov-2024 08:18:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodInterface.php on line 5
+[27-Nov-2024 10:37:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryRepository.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryRepository.php on line 5
+[27-Nov-2024 14:34:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodRepository.php on line 6
+[28-Nov-2024 23:18:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailInterface.php on line 5
+[28-Nov-2024 23:19:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailRepository.php on line 6
+[28-Nov-2024 23:20:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartInterface.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartInterface.php on line 6
+[28-Nov-2024 23:22:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseInterface.php on line 8
+[28-Nov-2024 23:22:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserInterface.php on line 8
+[28-Nov-2024 23:23:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressInterface.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressInterface.php on line 6
+[28-Nov-2024 23:24:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseRepository.php on line 7
+[28-Nov-2024 23:25:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierRepository.php on line 10
+[28-Nov-2024 23:26:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierInterface.php on line 8
+[28-Nov-2024 23:27:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartRepository.php on line 7
+[28-Nov-2024 23:27:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryRepository.php on line 7
+[28-Nov-2024 23:30:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php on line 4
+[28-Nov-2024 23:31:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BaseRepository.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BaseRepository.php on line 9
+[28-Nov-2024 23:32:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandRepository.php on line 7
+[28-Nov-2024 23:52:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminRepository.php on line 4
+[28-Nov-2024 23:53:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportInterface.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportInterface.php on line 3
+[28-Nov-2024 23:53:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentRepository.php on line 7
+[29-Nov-2024 00:23:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryInterface.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryInterface.php on line 3
+[29-Nov-2024 00:24:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductRepository.php on line 6
+[29-Nov-2024 00:28:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductInterface.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductInterface.php on line 4
+[29-Nov-2024 00:30:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderInterface.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderInterface.php on line 4
+[29-Nov-2024 00:30:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportRepository.php on line 7
+[29-Nov-2024 00:31:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminInterface.php on line 8
+[29-Nov-2024 00:32:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderRepository.php on line 6
+[29-Nov-2024 00:48:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodInterface.php on line 5
+[29-Nov-2024 00:59:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryInterface.php on line 5
+[29-Nov-2024 00:59:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentInterface.php on line 5
+[29-Nov-2024 01:23:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressRepository.php on line 6
+[29-Nov-2024 07:21:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodRepository.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodRepository.php on line 9
+[29-Nov-2024 08:01:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodInterface.php on line 5
+[29-Nov-2024 08:13:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandInterface.php on line 8
+[29-Nov-2024 11:12:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryRepository.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryRepository.php on line 5
+[29-Nov-2024 14:24:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodRepository.php on line 6
+[30-Nov-2024 23:02:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailInterface.php on line 5
+[30-Nov-2024 23:21:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserInterface.php on line 8
+[30-Nov-2024 23:28:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseRepository.php on line 7
+[30-Nov-2024 23:28:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BaseRepository.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BaseRepository.php on line 9
+[30-Nov-2024 23:29:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/UserRepository.php on line 4
+[30-Nov-2024 23:30:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/BrandRepository.php on line 7
+[30-Nov-2024 23:31:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressInterface.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressInterface.php on line 6
+[30-Nov-2024 23:32:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierRepository.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierRepository.php on line 10
+[30-Nov-2024 23:33:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/SupplierInterface.php on line 8
+[30-Nov-2024 23:34:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryRepository.php on line 7
+[30-Nov-2024 23:35:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartInterface.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartInterface.php on line 6
+[30-Nov-2024 23:36:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DiseaseInterface.php on line 8
+[30-Nov-2024 23:37:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportDetailRepository.php on line 6
+[30-Nov-2024 23:38:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CartRepository.php on line 7
+[30-Nov-2024 23:53:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportInterface.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportInterface.php on line 3
+[30-Nov-2024 23:54:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminRepository.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminRepository.php on line 4
+[30-Nov-2024 23:55:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentRepository.php on line 7
+[01-Dec-2024 00:31:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryInterface.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/CategoryInterface.php on line 3
+[01-Dec-2024 00:32:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ProductRepository.php on line 6
+[01-Dec-2024 00:33:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/AdminInterface.php on line 8
+[01-Dec-2024 00:37:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ImportRepository.php on line 7
+[01-Dec-2024 00:37:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderInterface.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/OrderInterface.php on line 4
+[01-Dec-2024 03:51:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/ReceiverAddressRepository.php on line 6
+[01-Dec-2024 10:29:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Interface "App\Repositories\RepositoryInterface" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/PaymentMethodInterface.php on line 5
+[01-Dec-2024 19:16:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "App\Repositories\BaseRepository" not found in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodRepository.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Repositories/DeliveryMethodRepository.php on line 6

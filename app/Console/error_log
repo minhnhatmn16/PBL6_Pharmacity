@@ -1,0 +1,8 @@
+[27-Nov-2024 01:06:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/huutrico/public_html/PBL6-BE/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Console/Kernel.php on line 8
+[29-Nov-2024 01:28:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/huutrico/public_html/PBL6-BE/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/app/Console/Kernel.php on line 8

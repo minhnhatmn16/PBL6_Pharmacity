@@ -1,0 +1,16 @@
+[25-Nov-2024 07:33:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php on line 7
+[25-Nov-2024 10:12:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php on line 7
+[27-Nov-2024 10:15:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php on line 7
+[05-Dec-2024 21:59:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/huutrico/public_html/PBL6-BE/tests/TestCase.php on line 7
